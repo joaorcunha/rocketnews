@@ -18,10 +18,8 @@
 </p>
 
 <p align="center">
-  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/social-tree/" target="_blank">https://joaorcunha.github.io/rocketnews/</a></em>
-  
-  https://joaorcunha.github.io/rocketnews/
-  
+  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/rocketnews/" target="_blank">https://joaorcunha.github.io/rocketnews/</a></em>
+   
 </p>
 
 ## :computer: Projeto
