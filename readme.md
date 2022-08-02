@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/social-tree/" target="_blank">joaorcunha.github.io/rocketnews/</a></em>
+  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/social-tree/" target="_blank">https://joaorcunha.github.io/rocketnews/</a></em>
   
 </p>
 
