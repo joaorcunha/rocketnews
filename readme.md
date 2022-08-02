@@ -8,8 +8,8 @@
 <br />
 
 <p align="center">  
-   <img src="https://github.com/joaorcunha/social-tree-2/blob/gh-pages/banner.PNG?raw=true" />
-   
+   <img src="https://github.com/joaorcunha/rocketnews/blob/gh-pages/banner.PNG?raw=true" />
+    
  </p>
  
  <p align="center">
