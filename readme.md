@@ -24,8 +24,6 @@
 
 ## :computer: Projeto
 
-<br />
-
 <p>Desafio proposto pela Rocketseat para criação de uma página web simples utilizada para captação de leads ou inscrição em newsletter.
 </p>
 
