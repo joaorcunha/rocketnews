@@ -22,8 +22,7 @@
   
 </p>
 
-## :computer: Projeto[joaorcunha.github.io/rocketnews
-](https://joaorcunha.github.io/rocketnews/)
+## :computer: Projeto
 
 <br />
 
